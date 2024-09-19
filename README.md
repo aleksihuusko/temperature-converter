@@ -4,6 +4,7 @@
 
 A simple and elegant temperature converter built with Next.js and Tailwind CSS.
 
+Live Preview: https://temp-converter-app.vercel.app/
 Project URL: https://roadmap.sh/projects/temperature-converter
 
 ## Features
