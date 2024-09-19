@@ -1,3 +1,5 @@
+![temperature-converter](https://github.com/user-attachments/assets/3420f325-99c8-48d9-a666-e1b6a48fea55)
+
 # Temperature Converter
 
 A simple and elegant temperature converter built with Next.js and Tailwind CSS.
