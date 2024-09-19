@@ -2,6 +2,8 @@
 
 A simple and elegant temperature converter built with Next.js and Tailwind CSS.
 
+Project URL: https://roadmap.sh/projects/temperature-converter
+
 ## Features
 
 - Convert temperatures between Celsius, Fahrenheit, and Kelvin
